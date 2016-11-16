@@ -17,17 +17,15 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="test 2"
-        android:onClick="test2"
+        android:onClick="test1"
         />
     <Button
-        android:id="@+id/test3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="test 3"
         android:onClick="test3"
         />
     <Button
-        android:id="@+id/test4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="test 4"
